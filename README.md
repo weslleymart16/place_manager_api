@@ -2,17 +2,19 @@
 
 Este é um projeto Laravel que utiliza Laravel Sail para gerenciar o ambiente de desenvolvimento local. O projeto utiliza PHP 8.1 e um banco de dados PostgreSQL.
 
+Obs. Caso queria visualizar registro no banco de dados usar rota `localhost/adminer.php` e usar credenciais do .env
+
 Configuração do Ambiente
 
 ### Instalação
 
-1 - Clone este repositório para o seu ambiente local;
-2 - Abra o docker desktop;
-3 - Copie o arquivo .env.example para .env;
-4 - Inicie os containers do Laravel Sail:
-`sail up -d`
-5 - Execute o comando :
-`sail php artisan migrate` 
+1 - Clone este repositório para o seu ambiente local; <br>
+2 - Abra o docker desktop;<br>
+3 - Copie o arquivo .env.example para .env;<br>
+4 - Inicie os containers do Laravel Sail:<br>
+<br>`sail up -d`<br><br>
+5 - Execute o comando :<br>
+<br>`sail php artisan migrate` <br><br>
 
 A aplicação estará disponível em http://localhost.
 
