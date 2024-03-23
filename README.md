@@ -13,7 +13,9 @@ Configuração do Ambiente
 3 - Copie o arquivo .env.example para .env;<br>
 4 - Inicie os containers do Laravel Sail:<br>
 <br>`sail up -d`<br><br>
-5 - Execute o comando :<br>
+5 - Gere chave artisan 
+<br>`sail php artisan key:generate`<br><br>
+6 - Execute o comando :<br>
 <br>`sail php artisan migrate` <br><br>
 
 A aplicação estará disponível em http://localhost.
