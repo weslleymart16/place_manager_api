@@ -6,9 +6,12 @@ Obs. Caso queria visualizar registro no banco de dados usar rota `localhost/admi
 
 Configuração do Ambiente
 
+- docker
+- Se ultilizar windows para desenvolver o WSL 2 é obrigatório.
+
 ### Instalação
 
-1 - Clone este repositório para o seu ambiente local; <br>
+1 - Clone este repositório para uma pasta dentro do WSL; <br>
 2 - Abra o docker desktop;<br>
 3 - Copie o arquivo .env.example para .env;<br>
 4 - Inicie os containers do Laravel Sail:<br>
