@@ -6,7 +6,7 @@ Obs. Caso queria visualizar registro no banco de dados usar rota `localhost/admi
 
 Configuração do Ambiente
 
-- docker
+- Docker
 - Se ultilizar windows para desenvolver o WSL 2 é obrigatório.
 
 ### Instalação
