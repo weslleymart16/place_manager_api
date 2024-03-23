@@ -23,10 +23,10 @@ A aplicação estará disponível em http://localhost.
 ### Endpoints da API
 A API oferece os seguintes endpoints:
 
-• Criar um lugar
-• Editar um lugar
-• Obter um lugar específico
-• Listar lugares e filtrá-los por nome
+• Criar um lugar<br>
+• Editar um lugar<br>
+• Obter um lugar específico<br>
+• Listar lugares e filtrá-los por nome<br>
 
 ## Arquivo Postman Collection
 
